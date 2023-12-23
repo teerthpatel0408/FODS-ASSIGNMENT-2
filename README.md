@@ -1,0 +1,1 @@
+This repo consist of assignment conducted by the our university for the course Foundation Of Data Science . It consists code to topic  PCA and finding optimal number of components without the use of standard libraries and implementation from scratch. 
